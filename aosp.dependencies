@@ -22,5 +22,23 @@
     "repository":  "LineageOS/android_packages_resources_devicesettings",
     "target_path": "packages/resources/devicesettings",
     "branch":      "lineage-15.1"
+  },
+  { 
+    "remote":      "github",  
+    "repository":  "Gitskill99/android_hardware_qcom_audio",
+    "target_path": "hardware/qcom/audio-caf",
+    "branch":      "pie"
+  },
+  { 
+    "remote":      "github",  
+    "repository":  "Gitskill99/android_hardware_qcom_display",
+    "target_path": "hardware/qcom/display-caf",
+    "branch":      "pie"
+  },
+  { 
+    "remote":      "github",  
+    "repository":  "Gitskill99/android_hardware_qcom_media",
+    "target_path": "hardware/qcom/media-caf",
+    "branch":      "pie"
   }
 ]
